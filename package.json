@@ -1,0 +1,1 @@
+{"name": "efi-mtls-proxy", "version": "1.0.0", "description": "MTLS Proxy for EFI", "main": "index.js", "scripts": {"start": "node index.js"}, "keywords": ["mtls", "proxy", "efi"], "author": "", "license": "MIT", "dependencies": {"express": "^4.18.2", "https": "^1.0.0"}, "engines": {"node": "18.x"}}
